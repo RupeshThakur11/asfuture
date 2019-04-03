@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/moonmagic
+Data file = C:\xampp\htdocs\moonmagic/wp-content/themes/business-consultr/ocdi/business-consultr.xml
+Widget file = C:\xampp\htdocs\moonmagic/wp-content/themes/business-consultr/ocdi/business-consultr.wie
+Customizer file = C:\xampp\htdocs\moonmagic/wp-content/themes/business-consultr/ocdi/business-consultr.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Text - Business Consultr - Imported
+Custom HTML - Opening Hours - Imported
+Categories - Categories - Imported
+Gallery - Event Gallery - Imported
+
+Footer1 : 
+
+Text - Business Consultr - Imported
+
+Footer2 : 
+
+Custom HTML - Opening Hours - Imported
+
+Footer3 : 
+
+Categories - Categories - Imported
+
+Footer4 : 
+
+Gallery - Event Gallery - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
